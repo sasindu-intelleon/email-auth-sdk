@@ -18,7 +18,7 @@ A lightweight, secure TypeScript SDK designed to manage API authentication heade
 Since this is a private package hosted via GitHub, you can install it directly using your repository link:
 
   ```bash
-    npm install git+[https://github.com/sasindu-intelleon/email-auth-sdk.git](https://github.com/sasindu-intelleon/email-auth-sdk.git)
+    npm install git+https://github.com/sasindu-intelleon/email-auth-sdk.git
   
   ```
 
